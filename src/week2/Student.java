@@ -6,7 +6,7 @@
 package week2;
 
 /**
- *
+ * @v2 
  * @author aeeda
  */
 public class Student {
